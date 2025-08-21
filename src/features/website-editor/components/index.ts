@@ -1,0 +1,9 @@
+export { HeroSection } from "./HeroSection";
+export { AboutSection } from "./AboutSection";
+export { ContentSection } from "./ContentSection";
+export { ContentColorSection } from "./ContentColorSection";
+export { TitleColorSection } from "./TitleColorSection";
+export { TypographySection } from "./TypographySection";
+export { ServicesSection } from "./ServicesSection";
+export { GallerySection } from "./GallerySection";
+export { ContactSection } from "./ContactSection"; 
